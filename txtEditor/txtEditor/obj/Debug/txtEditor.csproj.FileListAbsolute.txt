@@ -1,0 +1,11 @@
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\txtEditor\txtEditor\bin\Debug\txtEditor.exe.config
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\txtEditor\txtEditor\bin\Debug\txtEditor.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\txtEditor\txtEditor\bin\Debug\txtEditor.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\txtEditor\txtEditor\obj\Debug\txtEditor.Form1.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\txtEditor\txtEditor\obj\Debug\txtEditor.Properties.Resources.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\txtEditor\txtEditor\obj\Debug\txtEditor.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\txtEditor\txtEditor\obj\Debug\txtEditor.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\txtEditor\txtEditor\obj\Debug\txtEditor.pdb
